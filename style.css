@@ -1,1 +1,86 @@
+.search{
+    background: url(//www.gstatic.com/inputtools/images/tia.png) no-repeat center;
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+
+}
+
+.button {
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 2px 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.button-2 {
+        background-color: #303134;
+        border: 1px solid #303134;
+        border-radius: 4px;
+        color: #e8eaed;
+        font-family: arial,sans-serif;
+        font-size: 14px;
+        margin: 11px 4px;
+        padding: 0 16px;
+        line-height: 27px;
+        height: 36px;
+        min-width: 54px;
+        text-align: center;
+        cursor: pointer;
+        user-select: none;
+    
+}
+
+.footer-1 {
+        margin-top:200px;
+        padding: 15px 30px;
+        border:1px solid #3c4043;
+        font-size: 15px;
+        color: #9aa0a6;
+        list-style-type: none;
+        justify-content: end;
+}
+.footer {
+    margin: 0;
+    padding: 15px;
+    overflow: hidden;
+    border: 1px solid #3c4043;
+    border-top: 1px solid #3c4043;
+    position: fixed;
+    bottom: 2px;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 30px;
+    background-color: #3c4043 ;
+  }
+  
+  .footer-li {
+    float: left;
+    list-style-type:none;
+  }
+  
+  .footer-li a {
+    display: block;
+    color: #bdc1c6;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+  }
+  
+  .footer-li a:hover {
+    text-decoration: underline;
+  }
 
